@@ -1,8 +1,6 @@
 This repository contains the work and learnings from my internship.  
 
-Task Manager App - System architecture & Prototyping
-
-This repository contains the system architecture diagrams, ERD, and UI prototypes for a Task Manager Application.
+Task Manager App - System architecture & UI prototypes
 
 ## 📌 Completed Tasks
 
